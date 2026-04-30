@@ -32,12 +32,14 @@ Frontend: HTML5, CSS (Tailwind), JavaScript (ES6+)
 Visualization: Canvas API
 Icons & UI: Lucide Icons, Google Fonts
 Version Control: GitHub
+
 🏗️ Project Structure
 Memory-Management-Visualizer/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
+
 🔄 Core Modules
 1. Paging Simulator (PagingSim)
 Manages page table & frames
@@ -53,35 +55,34 @@ Replaces the oldest page in memory
 LRU (Least Recently Used)
 Replaces the least recently accessed page
 📊 Functionalities
-Paging Module
+📌 Paging Module
 Custom memory setup
 Page table + frame table visualization
 Page fault logs and statistics
-Segmentation Module
+📌 Segmentation Module
 Real-time memory map
 Allocation & deallocation
 Fragmentation analysis
 🔗 Live Project
 
+👉 GitHub Repository:
+https://github.com/harivigneshpericharla/OS_Project
 
 🎯 Use Case
-
-This tool is ideal for:
-
 Students learning Operating Systems
-Visual learners struggling with memory concepts
-Academic demonstrations and presentations
+Visual learners
+Academic demos
 📈 Future Enhancements
 Paging + Segmentation hybrid model
-Clock (Second Chance) Algorithm
-TLB (Translation Lookaside Buffer) simulation
+Clock Algorithm
+TLB simulation
 Buddy Memory Allocation
 Export logs as PDF
 📚 References
-Mozilla Developer Network (MDN)
-W3C HTML & CSS Standards
+MDN Web Docs
+W3C Standards
 Operating System Concepts – Silberschatz
-GeeksforGeeks (OS Topics)
+GeeksforGeeks
 📌 Conclusion
 
-This project makes abstract OS memory concepts intuitive by converting them into interactive visual simulations, improving both understanding and engagement.
+This project makes OS memory concepts easier to understand through interactive visualization.
