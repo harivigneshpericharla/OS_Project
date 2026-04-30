@@ -65,8 +65,6 @@ Allocation & deallocation
 Fragmentation analysis
 🔗 Live Project
 
-👉 GitHub Repository:
-https://github.com/harivigneshpericharla/OS_Project
 
 🎯 Use Case
 Students learning Operating Systems
